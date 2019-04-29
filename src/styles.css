@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #023436;
+  font-family: "Quicksand", sans-serif;
+  padding-top: 15px;
+}
+
+.board {
+  background-color: darkturquoise;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 50px;
+
+  text-decoration: underline;
+}
+p {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 40px;
+  color: white;
+}
+
+input {
+  border: 1px solid white;
+
+  padding: 5px;
+
+  width: 350px;
+
+  height: 25px;
+
+  font-size: 25px;
+}
+
+.list {
+  background-color: darkturquoise;
+  list-style-type: none;
+  width: 350px;
+  margin: 10px auto;
+}
